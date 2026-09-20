@@ -16,8 +16,9 @@ I own analytics problems end to end: framing the business question, designing th
 | [**anomaly_impact_alert**](https://github.com/klipbn/anomaly_impact_alert) | Anomaly detection, forecasting, deviation decomposition, Telegram alerts. Z-Score, STL, SESD, LOF, Isolation Forest, Prophet, ETS. Colab demo included | [![PyPI](https://img.shields.io/pypi/v/anomaly_impact_alert.svg?style=flat-square)](https://pypi.org/project/anomaly_impact_alert/) |
 | [**ytsaurus_python_client**](https://github.com/klipbn/ytsaurus_python_client) | Python client for YTsaurus, YQL, and CHYT: large results into pandas, async long-running queries, DataFrame uploads | [![PyPI](https://img.shields.io/pypi/v/ytsaurus_python_client.svg?style=flat-square)](https://pypi.org/project/ytsaurus_python_client/) |
 | [**ytsaurus_clickhouse_proxy**](https://github.com/klipbn/ytsaurus_clickhouse_proxy) | FastAPI proxy that exposes YTsaurus CHYT as a ClickHouse endpoint, so DBeaver and DataGrip connect over JDBC with a logical table catalog | [![PyPI](https://img.shields.io/pypi/v/ytsaurus-clickhouse-proxy.svg?style=flat-square)](https://pypi.org/project/ytsaurus-clickhouse-proxy/) |
+| [**streamlens**](https://github.com/klipbn/streamlens) | Live streams in one auto-updating Telegram message: viewers, trends and a slideshow of frames for YouTube, Twitch and Kick. Bring your own data or let it watch channels; no database, CLI and Docker included | [![PyPI](https://img.shields.io/pypi/v/streamlens.svg?style=flat-square)](https://pypi.org/project/streamlens/) |
 
-Also: [bot_streams_sender](https://github.com/klipbn/bot_streams_sender) (live-stream tracker across 4 platforms with anomaly detection) · [gym_online_checker](https://github.com/klipbn/gym_online_checker) (gym occupancy heatmaps to Telegram).
+Also: [bot_streams_sender](https://github.com/klipbn/bot_streams_sender) (the original Airflow + Postgres live-stream tracker with anomaly detection) · [gym_online_checker](https://github.com/klipbn/gym_online_checker) (gym occupancy heatmaps to Telegram).
 
 ## Professional impact
 
