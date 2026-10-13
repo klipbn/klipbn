@@ -10,7 +10,7 @@ I own analytics problems end to end: framing the business question, designing th
 
 ## Open source
 
-| Project | What it does | |
+| Project | What it does | Package |
 |---|---|---|
 | [**fast_exp_analytics**](https://github.com/klipbn/fast_exp_analytics) | A/B and A/B/C experiment analytics: significance tests, MDE, power analysis, duration planning, Excel reports, chat-ready summaries | [![PyPI](https://img.shields.io/pypi/v/fast-exp-analytics.svg?style=flat-square)](https://pypi.org/project/fast-exp-analytics/) |
 | [**anomaly_impact_alert**](https://github.com/klipbn/anomaly_impact_alert) | Anomaly detection, forecasting, deviation decomposition, Telegram alerts. Z-Score, STL, SESD, LOF, Isolation Forest, Prophet, ETS. Colab demo included | [![PyPI](https://img.shields.io/pypi/v/anomaly_impact_alert.svg?style=flat-square)](https://pypi.org/project/anomaly_impact_alert/) |
